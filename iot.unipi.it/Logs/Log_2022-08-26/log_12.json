@@ -1,0 +1,19 @@
+[ {
+  "time" : "26-08-2022 12:01:33",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "26-08-2022 12:01:37",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 12:02:21",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "26-08-2022 12:14:59",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 12:15:06",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 12:15:08",
+  "event" : "viaNapoli/commands--> 55"
+} ]

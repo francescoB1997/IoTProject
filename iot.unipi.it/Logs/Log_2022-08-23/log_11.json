@@ -1,0 +1,85 @@
+[ {
+  "time" : "23-08-2022 11:14:22",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "23-08-2022 11:14:23",
+  "event" : "viaNapoli/moisture: 0"
+}, {
+  "time" : "23-08-2022 11:14:26",
+  "event" : "viaNapoli/moisture: 0"
+}, {
+  "time" : "23-08-2022 11:14:29",
+  "event" : "viaNapoli/moisture: 0"
+}, {
+  "time" : "23-08-2022 11:14:30",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "23-08-2022 11:14:32",
+  "event" : "viaNapoli/moisture: 8"
+}, {
+  "time" : "23-08-2022 11:14:35",
+  "event" : "viaNapoli/moisture: 20"
+}, {
+  "time" : "23-08-2022 11:14:36",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "23-08-2022 11:14:38",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "23-08-2022 11:14:38",
+  "event" : "viaNapoli/moisture: 20"
+}, {
+  "time" : "23-08-2022 11:14:41",
+  "event" : "viaNapoli/moisture: 32"
+}, {
+  "time" : "23-08-2022 11:14:44",
+  "event" : "viaNapoli/moisture: 44"
+}, {
+  "time" : "23-08-2022 11:14:47",
+  "event" : "viaNapoli/moisture: 56"
+}, {
+  "time" : "23-08-2022 11:14:50",
+  "event" : "viaNapoli/moisture: 68"
+}, {
+  "time" : "23-08-2022 11:14:53",
+  "event" : "viaNapoli/moisture: 80"
+}, {
+  "time" : "23-08-2022 11:14:56",
+  "event" : "viaNapoli/moisture: 92"
+}, {
+  "time" : "23-08-2022 11:14:58",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "23-08-2022 11:14:59",
+  "event" : "viaNapoli/moisture: 96"
+}, {
+  "time" : "23-08-2022 11:15:02",
+  "event" : "viaNapoli/moisture: 84"
+}, {
+  "time" : "23-08-2022 11:15:05",
+  "event" : "viaNapoli/moisture: 72"
+}, {
+  "time" : "23-08-2022 11:15:08",
+  "event" : "viaNapoli/moisture: 60"
+}, {
+  "time" : "23-08-2022 11:15:11",
+  "event" : "viaNapoli/moisture: 48"
+}, {
+  "time" : "23-08-2022 11:15:14",
+  "event" : "viaNapoli/moisture: 36"
+}, {
+  "time" : "23-08-2022 11:15:17",
+  "event" : "viaNapoli/moisture: 24"
+}, {
+  "time" : "23-08-2022 11:15:18",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "23-08-2022 11:15:20",
+  "event" : "viaNapoli/moisture: 28"
+}, {
+  "time" : "23-08-2022 11:15:23",
+  "event" : "viaNapoli/moisture: 40"
+}, {
+  "time" : "23-08-2022 11:15:25",
+  "event" : "Closing IrrigApp"
+} ]

@@ -1,0 +1,10 @@
+[ {
+  "time" : "13-08-2022 08:45:31",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "13-08-2022 08:45:38",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "13-08-2022 08:45:42",
+  "event" : "Starting IrrigApp"
+} ]

@@ -1,0 +1,874 @@
+[ {
+  "time" : "05-08-2022 12:00:02",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:00:05",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:00:07",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:00:07",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:00:08",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:00:11",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:00:14",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:00:17",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:00:20",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:00:21",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:00:22",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:00:23",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:00:26",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:00:29",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:00:32",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:00:35",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:00:36",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:00:36",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:00:38",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:00:41",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:00:44",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:00:47",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:00:50",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:00:51",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:06:10",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:06:11",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:06:14",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:06:17",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:06:20",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:06:21",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:06:21",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:06:23",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:06:26",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:06:29",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:06:32",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:06:35",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:06:36",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:06:36",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:06:38",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:06:41",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:06:44",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:06:47",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:06:50",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:06:51",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:06:51",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:06:53",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:06:56",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:06:59",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:07:02",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:07:05",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:07:06",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:07:06",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:07:08",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:07:11",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:07:14",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:07:17",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:07:20",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:07:21",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:07:21",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:07:23",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:07:26",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:07:29",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:07:32",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:07:35",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:07:36",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:07:36",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:07:38",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:07:41",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:07:44",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:07:47",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:07:50",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:07:51",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:07:51",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:07:53",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:07:56",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:07:59",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:08:02",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:08:05",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:08:06",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:08:06",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:08:08",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:08:11",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:08:14",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:08:17",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:08:20",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:08:21",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:08:21",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:08:23",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:08:26",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:08:29",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:08:32",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:08:35",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:08:36",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:08:36",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:08:38",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:08:41",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:08:44",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:08:47",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:08:50",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:08:51",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:08:51",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:08:53",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:08:56",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:08:59",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:09:02",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:09:05",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:09:06",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:09:06",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:09:08",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:09:11",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:09:14",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:09:17",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:09:20",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:09:21",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:09:21",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:09:23",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:09:24",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:09:34",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:09:35",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:09:36",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:09:36",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:09:38",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:09:41",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:09:44",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:09:47",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:09:50",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:09:51",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:09:51",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:09:53",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:09:56",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:09:59",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:10:02",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:10:05",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:10:06",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:10:06",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:10:08",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:10:11",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:10:14",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:10:17",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:10:20",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:15:40",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:15:40",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:15:43",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:15:46",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:15:49",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:15:51",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:15:51",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:15:53",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:15:55",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:15:58",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:16:01",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:16:04",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:16:06",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:16:06",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:16:07",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:16:10",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:16:13",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:16:16",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:16:19",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:16:21",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:16:21",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:16:22",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:16:25",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:16:28",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:16:31",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:16:34",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:16:36",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:16:36",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:16:37",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:16:43",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:16:43",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:16:46",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:16:53",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:16:57",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:16:58",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:17:01",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:17:04",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:17:06",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:17:07",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:17:10",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:17:13",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:17:16",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:17:19",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:17:21",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:17:22",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:17:25",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:17:28",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:17:31",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:17:46",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:17:51",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:18:19",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:18:48",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:18:54",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:21:46",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:22:20",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:25:33",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:26:35",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:27:37",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:28:37",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:28:37",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:29:58",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:30:01",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:30:04",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:30:07",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:30:10",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:30:12",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:30:13",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:30:16",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:30:19",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:30:22",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:30:25",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:30:27",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:30:28",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:30:31",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:30:34",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:30:37",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:30:40",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:30:42",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:30:43",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:30:46",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:30:49",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:30:52",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:30:55",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:30:56",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:30:58",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:31:01",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:31:04",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:31:07",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:31:10",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:31:11",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:31:13",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:31:16",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:31:19",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:31:22",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:31:25",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:31:26",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:31:28",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:31:31",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:31:34",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:31:37",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:31:40",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:31:41",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:31:43",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:31:46",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:31:49",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:31:52",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:31:55",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:31:56",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:31:58",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:32:01",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:32:04",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:32:07",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:32:10",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:32:11",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:32:13",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:32:16",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:32:19",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:32:22",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:32:25",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:32:26",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:32:28",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:32:31",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:32:34",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:32:37",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:32:40",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:32:41",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:32:43",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:32:44",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:32:52",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:32:52",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:32:55",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:32:56",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "05-08-2022 12:43:19",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "05-08-2022 12:43:22",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:43:25",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:43:26",
+  "event" : "viaNapoli/commands/pumpState: ON"
+}, {
+  "time" : "05-08-2022 12:43:26",
+  "event" : "viaNapoli/commands/pumpState--> ON"
+}, {
+  "time" : "05-08-2022 12:43:28",
+  "event" : "viaNapoli/moisture: 26"
+}, {
+  "time" : "05-08-2022 12:43:31",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:43:34",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:43:37",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:43:40",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:43:41",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:43:41",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:43:42",
+  "event" : "viaNapoli/commands/pumpState: OFF"
+}, {
+  "time" : "05-08-2022 12:43:43",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 12:43:43",
+  "event" : "viaNapoli/moisture: 74"
+}, {
+  "time" : "05-08-2022 12:43:46",
+  "event" : "viaNapoli/moisture: 62"
+}, {
+  "time" : "05-08-2022 12:43:49",
+  "event" : "viaNapoli/moisture: 50"
+}, {
+  "time" : "05-08-2022 12:43:52",
+  "event" : "viaNapoli/moisture: 38"
+}, {
+  "time" : "05-08-2022 12:43:53",
+  "event" : "Closing IrrigApp"
+} ]

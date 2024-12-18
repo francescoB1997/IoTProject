@@ -1,0 +1,40 @@
+[ {
+  "time" : "26-08-2022 17:04:26",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 17:11:25",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 17:18:42",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 17:20:10",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "26-08-2022 17:20:12",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 17:22:53",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 17:24:02",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 17:24:44",
+  "event" : "viaNapoli/commands--> 22"
+}, {
+  "time" : "26-08-2022 17:25:24",
+  "event" : "viaNapoli/commands--> 50"
+}, {
+  "time" : "26-08-2022 17:25:57",
+  "event" : "Closing IrrigApp"
+}, {
+  "time" : "26-08-2022 17:25:59",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 17:36:54",
+  "event" : "Starting IrrigApp"
+}, {
+  "time" : "26-08-2022 17:36:59",
+  "event" : "Closing IrrigApp"
+} ]

@@ -1,0 +1,7 @@
+[ {
+  "time" : "05-08-2022 13:07:16",
+  "event" : "viaNapoli/commands/pumpState--> OFF"
+}, {
+  "time" : "05-08-2022 13:07:21",
+  "event" : "Closing IrrigApp"
+} ]
