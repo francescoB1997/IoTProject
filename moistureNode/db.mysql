@@ -1,0 +1,4 @@
+create database db_iot;
+USE db_iot;
+
+CREATE TABLE event_ ( ID INT AUTO_INCREMENT NOT NULL, timestamp_ timestamp NOT NULL, description varchar(150), PRIMARY KEY(ID) );
